@@ -10,3 +10,9 @@ This tool will lock the screen using i3lock and physlock. It will apply a blur t
 - i3lock
 - imagemagick
 - physlock
+
+## Installation
+Simply get the script and put it whereever your want
+
+## Screenshot
+![Screenshot](https://nsa40.casimages.com/img/2020/12/09/20120912455123989.png)
